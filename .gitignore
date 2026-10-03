@@ -1,0 +1,12 @@
+# Archivos locales de Terraform (no se suben al repositorio)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+*.tfvars
+!example.tfvars
+.terraform.tfstate.lock.info
+
+# Reportes de la práctica
+*.docx
